@@ -1,0 +1,38 @@
+.tb {
+    margin-bottom: 0%;
+    text-align: center;
+}
+
+.srch {
+    width: 300px;
+}
+
+.apt {
+    font-family: "Andale Mono", AndaleMono, monospace;
+    text-align: center;
+}
+
+.np {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(33, 32, 32);
+    margin-top: 10px;
+}
+
+h4 {
+    color: rgb(226, 226, 230);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h3 {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+nav {
+    margin-bottom: 10px;
+}
